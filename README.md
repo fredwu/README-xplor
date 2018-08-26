@@ -107,6 +107,10 @@ Feedback should be provided and received as soon as possible. Instead of waiting
 
 Every person is different, and therefore every project and every team are different. There is __always__ room for improvement, for __everyone__. So, if you have any feedback for me, please come talk to me, I promise I won't bite! ;)
 
+## Trust Bank
+
+I will always fill up the trust bank to the fullest and work backwards. What that means is that I will place my trust in you blindly, but if you repeatedly make the same mistakes again and again after being given feedback then you will slowly drain that trust bank.
+
 ## Seagull Approach 💩
 
 If you haven't heard of this term before, [look it up](https://www.google.com/search?q=seagull+approach).
