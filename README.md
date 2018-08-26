@@ -37,6 +37,7 @@ You can view my full DISC profile by [downloading this PDF](assets/disc-profile.
 ### Key Points that Define My Leadership Style
 
 - I value people over everything else
+- I value actions over words
 - I value pragmatism over correctness
 - I value realism over (extreme-)optimism
 - I value autonomy over micro-management
