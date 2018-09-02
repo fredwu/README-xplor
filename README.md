@@ -2,7 +2,7 @@
 
 Inspired by [other senior tech leaders](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) in the industry, this is my version of README that hopefully gives you some insights into how to work with me more effectively at Xplor.
 
-I am a big fan of valueing people over process, so please treat this document as a guidline only.
+I am a big fan of valueing people over process, so please treat this document as a guideline only.
 
 ## Hi, I'm Fred Wu!
 
