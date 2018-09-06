@@ -34,6 +34,10 @@ You can view my full DISC profile by [downloading this PDF](assets/disc-profile.
 
 ![](assets/disc-values.png)
 
+### My MBTI (Myers-Briggs Type Indicator)
+
+I am an __INFJ__, and here is [the relevant section](https://www.16personalities.com/infjs-at-work) that applies in workplaces.
+
 ### Key Points that Define My Leadership Style
 
 - I value people over everything else
